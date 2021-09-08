@@ -8,6 +8,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Demo](#Demo)
 
 ## Installation
 Inquirer
@@ -22,4 +23,7 @@ John Singapuri
 
 ## License
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+
+## Demo 
+Check out my demo video (https://drive.google.com/file/d/1pVzymhI-ABhzAMgCs8gusDb5M8pZu-PP/view)
 ---
